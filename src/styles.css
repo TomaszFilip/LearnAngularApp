@@ -1,1 +1,34 @@
-/* You can add global styles to this file, and also import other style files */
+.carousel-wrapper {
+  width: 1000px;
+  margin: auto;
+  position: relative;
+  text-align: center;
+  font-family: sans-serif;
+}
+.owl-nav {
+  overflow: hidden;
+  height: 0px;
+
+}
+
+.nav-button {;
+  cursor: pointer;
+  position: absolute;
+  font-size: 234px;
+  top: 40% !important;
+  bottom: 40%;
+  color: black;
+  background-color: blue;
+}
+
+.owl-prev {
+  left: -35px;
+  color: black;
+  background-color: blue;
+}
+.owl-next {
+  right: -35px;
+  background-color: blue;
+}
+
+
