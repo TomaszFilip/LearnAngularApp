@@ -1,6 +1,6 @@
 # LearnAngularApp
 
-Self-improvement purposes
+Self-improvement 
 
 ## Development server
 
